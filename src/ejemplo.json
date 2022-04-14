@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "title": "Aliens",
+        "director": "James Cameron",
+        "year": "2002",
+        "rating": "8"
+    },
+    {
+        "id": "2",
+        "title": "Spirit",
+        "director": "Horse Man",
+        "year": "2004",
+        "rating": "9"
+    }
+]
